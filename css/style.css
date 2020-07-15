@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Roboto";
+    src:url("/css/fonts/Roboto-Black.ttf");
+    font-weight: 500;
+}
+html {text-transform: uppercase;
+}
+
+h1 {
+    color: red;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+h3 {
+font-family:"Roboto";
+}
+
+#bioHeader {
+    color:brown;
+}
+
+h3 {
+    color: coral;
+}
+
+p {
+    color: blue;
+    font-size: 24px;
+}
+
+.content{
+    color:pink;
+    margin: 40px 50px 60px 0; 
+    border: solid 1px blue;
+    padding: 10px 10px 10px 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.img-div{
+    background-color: blue;
+    
+}
+#img-1{
+    
+    position: fixed;
+    top: 10px;
+    left: 600px;
+}
+
+#img-2{
+    
+    position:relative;
+    left: 50px;
+}
+#img-3{
+    
+    position:absolute;
+    top:10px;
+    left: 80px;
+}
+
+img {
+    width: 12%;
+    height: 200px;
+    box-shadow: 3px 3px 7px black;
+    margin: 2,5%;
+}
+    
+
+
+
